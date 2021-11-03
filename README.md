@@ -1,6 +1,6 @@
 ### Introduction
 
-Latex for Bengali and Latex overleaf for Bengali
+Latex for Bengali and Latex overleaf for Bengali and Bangla
 
 https://tex.stackexchange.com/questions/99606/how-to-write-bengali-in-latex
 
